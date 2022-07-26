@@ -2,28 +2,28 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://adhikara13githubio.gatsbyjs.io/",
-    "title": "Achmad Adhikara",
+    "title": "adhkr",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Simple blog about my journey in cybersecurity.",
-    "author": "Konstantin Münster",
+    "author": "Achmad Adhikara",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Tiada sistem yang aman.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/adhikara13",
-      "medium": "https://konstantinmuenster.medium.com",
+      "medium": "https://medium.com/@adhikara13",
       "linkedin": "https://www.linkedin.com/in/adhikara13/",
       "mail": "mailto:adhikara13@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "adhkr" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Github", "url": "https://github.com/adhikara13" }
       ],
       "ctaButton": {
         "openNewTab": true,
